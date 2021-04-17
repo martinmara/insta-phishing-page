@@ -1,4 +1,4 @@
-CREATE TABLE Persons (
+CREATE TABLE members (
     PersonID int,
     username varchar(255),
     password varchar(255)
