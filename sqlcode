@@ -1,4 +1,4 @@
-CREATE TABLE members (
+CREATE TABLE action (
     PersonID int,
     username varchar(255),
     password varchar(255)
