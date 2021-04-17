@@ -1,0 +1,5 @@
+CREATE TABLE Persons (
+    PersonID int,
+    username varchar(255),
+    password varchar(255)
+);
